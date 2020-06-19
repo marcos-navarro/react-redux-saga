@@ -1,4 +1,5 @@
 # React + Redux + Sagas
+![React-Redux-Saga](https://www.carlrippon.com/static/cec80a24c223b44124cb8ab9f235027e/799d3/Strongly-typed-React-Redux-Code-with-TypeScript-1024x368.png)
 
 This is a fixation study for Redux and Redux Saga, using GitHub api for requests. This project can be use like a template, for futures projects.
 
@@ -37,7 +38,7 @@ npm start
 Wait npm run the app, usualy on port 3000, but whether not open, go to **http://localhost:3000/**
 
 ## Preview
-
+<img src="/docs/example.gif" width="500">
 
 
 ## Built With
