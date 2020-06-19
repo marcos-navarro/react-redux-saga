@@ -36,7 +36,7 @@ const Home: React.FC<Props> = ({ addUserRequest, loading, users }) => {
   return (
     <div className="container">
       <div className="search">
-        <label htmlFor="user">Usuário</label>
+        <label htmlFor="user">User Name</label>
         <input
           id="user"
           type="text"
@@ -49,7 +49,7 @@ const Home: React.FC<Props> = ({ addUserRequest, loading, users }) => {
           }}
           onChange={handleInputUserChange}
         />
-        <button onClick={() => handleAddUser(user)}>Buscar</button>
+        <button onClick={() => handleAddUser(user)}>Search</button>
       </div>
       {loading &&(<strong>Loading...</strong>)}
       <div className="list-container">
