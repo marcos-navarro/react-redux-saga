@@ -1,6 +1,6 @@
 # React + Redux + Sagas
 
-This is a fixation study , and a way to take this project like a template, for futures projects.
+This is a fixation study for Redux and Redux Saga, using GitHub api for requests. This project can be use like a template, for futures projects.
 
 ## Getting Started
 
